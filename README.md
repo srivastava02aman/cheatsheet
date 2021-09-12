@@ -1,5 +1,4 @@
-# cheatsheet
-<h1>Cheat sheet</h1> 
+# cheatsheet 
 <h2>Technology Use.</h2>
 <ol>
   <li>HTML</li>
