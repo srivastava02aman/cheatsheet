@@ -1,7 +1,7 @@
-# cheatsheet 
-<h2>Technology Use.</h2>
+# CheatSheet 
+<h2>Technology use.</h2>
 <ol>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
   <li>prismjs</li>
   </ol>
