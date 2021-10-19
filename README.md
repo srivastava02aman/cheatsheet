@@ -1,5 +1,5 @@
 # CheatSheet 
-<h2>Technology use.</h2>
+<h2>Technology Used.</h2>
 <ol>
   <li>HTML 5</li>
   <li>CSS 3</li>
