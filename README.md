@@ -3,5 +3,5 @@
 <ol>
   <li>HTML 5</li>
   <li>CSS 3</li>
-  <li>prismjs</li>
+  <li>Prismjs</li>
   </ol>
